@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Orbee Script Install",
+  "categories": ["ANALYTICS", "PERSONALIZATION", "TAG_MANAGEMENT"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
