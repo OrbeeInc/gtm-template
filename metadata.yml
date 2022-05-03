@@ -1,5 +1,5 @@
 homepage: "https://www.orbee.com"
 documentation: "https://github.com/OrbeeAuto/gtm-template"
 versions:
-  - sha: 3b722bcde31313b09cdb804f500f93eef3547073
+  - sha: 82537456e0ba5e4966331e0bc37906f228286c1c
     changeNotes: v1.0, First release.
